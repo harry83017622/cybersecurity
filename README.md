@@ -1,5 +1,7 @@
 Please Use This Repo Legally.
 
+Requirement: Nmap, Scapy
+
 Use nmap to do port scanning
 ```
 // nmap port scanning
